@@ -416,7 +416,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Helpers
 
-- [vite-plugin-svelte-console-remover](https://github.com/jhubbardsf/vite-plugin-svelte-console-remover) - Remove console statements from production (Svelte, TS, JS files).
+- [vite-plugin-svelte-console-remover](https://github.com/jhubbardsf/vite-plugin-svelte-console-remover) - Remove console statements from Svelte, TS, JS files during prod build.
 
 <hr>
 
