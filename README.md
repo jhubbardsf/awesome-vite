@@ -414,6 +414,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
 
+#### Helpers
+
+- [vite-plugin-svelte-console-remover](https://github.com/jhubbardsf/vite-plugin-svelte-console-remover) - Remove console statements from production (Svelte, TS, JS files).
+
 <hr>
 
 ### Solid
